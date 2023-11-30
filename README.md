@@ -4,4 +4,4 @@
 ./start.sh
 
 # stop
-./start.sh
+./stop.sh
